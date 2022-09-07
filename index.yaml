@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  train-schedule:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-09-06T17:34:44.8023333+07:00"
+    description: A train schedule app.
+    digest: bf105ea30e866eacc5cd5524f563b03304f52d75cb8ab248d37b8463f1d79acc
+    name: train-schedule
+    type: application
+    urls:
+    - train-schedule-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-09-06T17:34:44.8013864+07:00"
